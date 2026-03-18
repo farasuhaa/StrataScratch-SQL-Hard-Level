@@ -1,0 +1,1 @@
+# StrataScratch-SQL-Free-Hard-Level
